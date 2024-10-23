@@ -26,6 +26,7 @@
 ### 💫 Quick Stats
 
 <p align="center">
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=tanisharafmkk" alt="GFG stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanisharashinkar&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
