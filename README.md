@@ -1,13 +1,16 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Welcome animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900px" />
 </div>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&pause=1000&color=2C8AF7&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+👋;I'm+Tanisha+Rashinkar!" alt="Typing SVG"/>
-</h1>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=635&lines=Hi+there!+I'm+Tanisha+Rashinkar+%F0%9F%91%8B;Backend+Development+Enthusiast+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  </a>
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 ### 👩‍💻 $ whoami
