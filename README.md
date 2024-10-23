@@ -28,7 +28,6 @@ POWER-UPS: Coffee ☕ & Curiosity 🌟
 STATUS: Ready for New Adventures! 🚀
 ```
 
-[Rest of the previous content remains the same starting from "### 🛠️ Tech Arsenal" section]
 ```
 
 ### 🛠️ Tech Arsenal 
