@@ -82,22 +82,6 @@ Result:
 +-----------------------------------------------------------------+
 ```
 
-### 🎯 sudo apt-get install goals-2024
-
-```bash
-Installing goals for user Tanisha...
-[##########----------------] 42% complete
-
-PENDING TASKS:
-  ◉ Master System Design Patterns
-  ◉ Contribute to Open Source Galaxy
-  ◉ Build Something Revolutionary
-  ◉ Learn Cloud Native Spells
-  ◉ Fix that one bug that's been there since 2023
-  
-WARNING: Coffee reserves running low!
-```
-
 ### 🤝 Let's Connect!
 
 <div align="center">
