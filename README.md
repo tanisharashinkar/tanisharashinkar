@@ -1,43 +1,34 @@
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/assets/wave.gif" width="900px">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" width="800px"/>
 </div>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=635&lines=Hello+World!+I'm+Tanisha+Rashinkar+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%9A%80;Tech+Enthusiast+%E2%9C%A8;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
   </a>
 </div>
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/assets/Developer.gif" height="200">
-</div>
+
+<br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-### 👩‍💻 $ whoami
+### 🎮 Player Stats
 
-```bash
-> investigating Tanisha.exe...
-> loading personality.json...
-{
-    "BIOS": {
-        "location": "Bhopal, India 📍",
-        "education": "sudo apt-get install B.Tech @ VIT Bhopal 🎓",
-        "version": "Final Year Undergrad 2024",
-        "kernel": "Backend Development with a dash of Full Stack 🚀"
-    },
-    "packages_installed": {
-        "languages": ["Java", "JavaScript", "SQL", "Life"],
-        "frameworks": ["Spring Boot", "React", "Microservices"],
-        "databases": ["MySQL", "PostgreSQL"],
-        "tools": ["Docker", "Kafka", "Git"],
-        "soft_skills": ["Debug Dance", "Coffee Engineering", "Stack Overflow Surfing"]
-    },
-    "current_processes": {
-        "learning": "Cloud Native Architecture",
-        "building": "Scalable Systems",
-        "debugging": "Life.js - Infinite Loop"
-    }
-}
+```txt
+PLAYER: Tanisha Rashinkar
+LEVEL: Final Year @ VIT Bhopal
+BASE: Bhopal, India
+
+SKILLS EQUIPPED: Java, Spring Boot, React, Docker, Kafka
+CURRENT QUEST: Building Cool Digital Solutions
+POWER-UPS: Coffee ☕ & Curiosity 🌟
+
+STATUS: Ready for New Adventures! 🚀
+```
+
+[Rest of the previous content remains the same starting from "### 🛠️ Tech Arsenal" section]
 ```
 
 ### 🛠️ Tech Arsenal 
